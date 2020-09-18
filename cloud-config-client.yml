@@ -8,7 +8,7 @@ server:
 spring: 
   profiles: dev
   application: 
-    name: cloud-config-client-8201
+    name: cloud-config-client-8201-new
   cloud:
     consul:
       host: localhost
